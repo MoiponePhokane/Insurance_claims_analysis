@@ -8,7 +8,7 @@ This project analyses customer, policy, and claims data to uncover insights and 
 2. Suspected fraudulent claims
 3. Low customer retention
 
-## TOOLS 
+## TOOLS UTILISED
 1. Excel spreadsheet
 2. SQL (Databricks Free Edition)
 3. Power BI
