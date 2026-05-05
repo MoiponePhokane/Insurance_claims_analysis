@@ -11,8 +11,7 @@ Data exploring
 Data cleaning
 
 # 2. POWER BI
-Data transformation 
-Visualisation
+Data transformation & visualisation
 ![dashboard preview](dashboard_preview.png)
 
 
