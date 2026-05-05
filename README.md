@@ -13,7 +13,7 @@ Data cleaning
 # 2. POWER BI
 Data transformation 
 Visualisation
-![dashboard preview](images/dashboard_preview.png)
+![dashboard preview](dashboard_preview.png)
 
 
 # DATA STORY TELLING
