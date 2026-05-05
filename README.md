@@ -22,5 +22,11 @@ Visualisation
 3. Monthly income declines resulting in low customer retention
 4. Fraudulent claims are mostly witnessed in customers between the ages 35-50
 
+# RECOMMENDATION
+1. Invest in advanced analytics and machine learning to forecast claim probabilities and detect high-risk behaviour early.
+2. Strengthen risk mitigation by offering premium incentives, customer education, and lifestyle-based reward programs.
+3. Improve fraud detection by cross-referencing external data sources and using geospatial analysis to identify suspicious patterns and high-risk areas.
+ 
+
 
 
