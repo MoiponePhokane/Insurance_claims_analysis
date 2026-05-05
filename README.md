@@ -11,8 +11,10 @@ Data exploring
 Data cleaning
 
 # 2. POWER BI
-Transformation 
+Data transformation 
 Visualisation
+![Dashboard Preview](images/dashboard_preview.png)
+
 
 # DATA STORY TELLING
 1. Claims decrease overtime due to the economic impact of Covid-19
